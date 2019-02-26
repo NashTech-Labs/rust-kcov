@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage SYSTEM 'http://cobertura.sourceforge.net/xml/coverage-03.dtd'>
+<coverage line-rate="0.000" version="1.9" timestamp="1551167769">
+	<sources>
+		<source>/home/knoldus/Blog/rust-kcov/src/main.rs/</source>
+	</sources>
+	<packages>
+		<package name="calculator_7c92e8220fa75aae" line-rate="0.000" branch-rate="1.0" complexity="1.0">
+			<classes>
+				<class name="main_rs" filename="/home/knoldus/Blog/rust-kcov/src/main.rs" line-rate="0.952">
+					<lines>
+						<line number="1" hits="0"/>
+						<line number="9" hits="1"/>
+						<line number="11" hits="1"/>
+						<line number="12" hits="1"/>
+						<line number="13" hits="1"/>
+						<line number="15" hits="1"/>
+						<line number="17" hits="1"/>
+						<line number="18" hits="1"/>
+						<line number="19" hits="1"/>
+						<line number="23" hits="3"/>
+						<line number="24" hits="1"/>
+						<line number="25" hits="2"/>
+						<line number="28" hits="3"/>
+						<line number="29" hits="1"/>
+						<line number="30" hits="2"/>
+						<line number="33" hits="3"/>
+						<line number="34" hits="1"/>
+						<line number="35" hits="2"/>
+						<line number="38" hits="3"/>
+						<line number="39" hits="1"/>
+						<line number="40" hits="2"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>

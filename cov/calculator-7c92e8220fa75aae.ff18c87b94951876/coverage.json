@@ -1,0 +1,12 @@
+{
+  "files": [
+    {"file": "/home/knoldus/Blog/rust-kcov/src/main.rs", "percent_covered": "95.24", "covered_lines": "20", "total_lines": "21"}
+  ],
+  "percent_covered": "95.24",
+  "covered_lines": 20,
+  "total_lines": 21,
+  "percent_low": 25,
+  "percent_high": 75,
+  "command": "calculator-7c92e8220fa75aae",
+  "date": "2019-02-26 13:26:09"
+}
